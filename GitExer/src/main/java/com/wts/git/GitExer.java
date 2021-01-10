@@ -7,9 +7,6 @@ public class GitExer {
         System.out.println("克隆成功");
         System.out.println("Hello Git");
         System.out.println("大家好");
-        System.out.println("克隆成功");
-        System.out.println("克隆成功");
-        System.out.println("克隆成功");
-        
+        System.out.println("克隆成功"); 
     }
 }
